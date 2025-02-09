@@ -1,6 +1,6 @@
 package doublyLinkedList;
-// Assignment: 5
-// Author: Or Adar, ID: 305468506
+
+// Author: Or Adar
 public interface List<T> {
     boolean isEmpty();
     int size();

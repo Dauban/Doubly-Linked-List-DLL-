@@ -1,6 +1,6 @@
 package doublyLinkedList;
-// Assignment: 5
-// Author: Or Adar, ID: 305468506
+
+// Author: Or Adar
 /**
  * The DoublyLinkedList class represents a doubly linked list implementation of the List interface.
  * It provides methods to add, remove, and manipulate elements in the list.

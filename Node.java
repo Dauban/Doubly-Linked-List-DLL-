@@ -1,6 +1,6 @@
 package doublyLinkedList;
-// Assignment: 5
-// Author: Or Adar, ID: 305468506
+
+// Author: Or Adar
 /**
  * The Node class represents a node in a doubly linked list.
  *

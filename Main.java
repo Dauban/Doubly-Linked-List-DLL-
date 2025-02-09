@@ -1,8 +1,8 @@
 package doublyLinkedList;
 
 import java.util.Scanner;
-// Assignment: 5
-// Author: Or Adar, ID: 305468506
+
+// Author: Or Adar
 public class Main {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);

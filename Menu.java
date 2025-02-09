@@ -1,6 +1,5 @@
 package doublyLinkedList;
-// Assignment: 5
-// Author: Or Adar, ID: 305468506
+// Author: Or Adar
 /**
  * The Menu enum represents a set of menu options for a DoublyLinkedList.
  */
